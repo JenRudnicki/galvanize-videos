@@ -1,5 +1,7 @@
 ## Galvanize Tower
 
+Add a link to your [deployed front-end URL](), your [deployed API URL](), and any [code repos you used]().
+
 In this project, you'll build a full-stack application that has an API, reads and writes data, and uses a library. You'll have a week to complete it, and the topic is up to you!
 
 ## Requirements
@@ -11,5 +13,3 @@ In this project, you'll build a full-stack application that has an API, reads an
   - Consumes your API (list, read, update, create, and delete actions)
   - Uses some non-trivial (charting, mapping, payment, etc.) library
   - Has at least 2 end-to-end tests
-
-Add a link to your [deployed front-end URL](), your [deployed API URL](), and any [code repos you used]().
