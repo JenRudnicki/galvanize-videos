@@ -8,10 +8,14 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
+    "knex": "^0.15.2",
     "morgan": "^1.9.0",
+    "pg": "^7.4.3",
+    "pg-promise": "^8.4.5",
     "vue": "^2.5.16"
   },
   "devDependencies": {
