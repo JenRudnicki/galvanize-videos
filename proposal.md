@@ -8,9 +8,9 @@ A web app specifically for web dev tutorial videos (YouTube videos already creat
 
 Sites like YouTube rely solely on the search field to fetch and display results. But the results often include videos that include a different technology or language, or videos on a very different level (too remedial or too advanced) than what the individual is looking for.
 
-## Solution: Galvanize Videos
+## Solution
 
-My project will provide a simple, yet effective solution to this problem. My project will allow users to narrow down the video results based on selected parameters in a simple Bootstrap form.
+My project - Galvanize Videos - will provide a simple, yet effective solution to this problem. My project will allow users to narrow down the video results based on selected parameters in a simple Bootstrap form.
 
 ## UX
 
